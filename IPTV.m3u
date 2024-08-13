@@ -236,6 +236,33 @@ http://20240504.shunyue1809.com:6321/udp/239.49.8.122:8000
 #EXTINF:-1 tvg-id="JS05" tvg-name="江苏体育休闲" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Jiangsu5.png" group-title="长三角",江苏体育休闲
 http://20240504.shunyue1809.com:6321/udp/239.49.8.117:8000
 
+#EXTINF:-1 group-title="长三角",江苏城市
+http://hlsbkmgsplive.miguvideo.com/wd_r2/jstv/jschengshi/600/01.m3u8?&HlsSubType=&encrypt=
+#EXTINF:-1 group-title="长三角",江苏综艺
+http://hlsbkmgsplive.miguvideo.com/wd_r2/jstv/jszongyi/600/01.m3u8?&HlsSubType=&encrypt=
+#EXTINF:-1 group-title="长三角",江苏新闻
+http://hlsbkmgsplive.miguvideo.com/wd_r2/jstv/jsgonggong/600/01.m3u8?&HlsSubType=&encrypt=
+#EXTINF:-1 group-title="长三角",江苏教育
+http://hlsbkmgsplive.miguvideo.com/wd_r2/jstv/jsjiaoyu/600/01.m3u8?&HlsSubType=&encrypt=
+#EXTINF:-1 group-title="长三角",江苏国际
+http://hlsbkmgsplive.miguvideo.com/wd_r2/jstv/jsguoji/600/01.m3u8?&HlsSubType=&encrypt=
+#EXTINF:-1 group-title="长三角",江苏影视
+http://hlsbkmgsplive.miguvideo.com/wd_r2/jstv/jsyingshi/600/01.m3u8?&HlsSubType=&encrypt=
+#EXTINF:-1 group-title="长三角",江苏体育休闲
+http://hlsbkmgsplive.miguvideo.com/wd_r2/jstv/jstiyu/600/01.m3u8?&HlsSubType=&encrypt=
+#EXTINF:-1 group-title="长三角",优漫卡通
+http://hlsbkmgsplive.miguvideo.com/wd_r2/jstv/ymkt/600/01.m3u8?&HlsSubType=&encrypt=
+#EXTINF:-1 group-title="长三角",南京新闻综合
+http://hlsbkmgsplive.miguvideo.com/migu/kailu/nanjingxwzh/50/20230719/01.m3u8?&HlsSubType=&encrypt=
+#EXTINF:-1 group-title="长三角",南京科教
+http://hlsbkmgsplive.miguvideo.com/migu/kailu/nanjingkj/50/20230719/01.m3u8?&HlsSubType=&encrypt=
+#EXTINF:-1 group-title="长三角",南京十八
+http://hlsbkmgsplive.miguvideo.com/migu/kailu/nanjingsb/50/20230719/01.m3u8?&HlsSubType=&encrypt=
+#EXTINF:-1 group-title="长三角",淮安新闻综合
+http://hlsbkmgsplive.miguvideo.com/wd_r2/jstv/haxinwenzonghe/600/01.m3u8?&HlsSubType=&encrypt=
+#EXTINF:-1 group-title="长三角",江苏新闻综合
+http://hlsbkmgsplive.miguvideo.com/wd_r2/jstv/szxinwenzonghe/600/01.m3u8?&HlsSubType=&encrypt=
+
 #EXTINF:-1 tvg-id="黑龙江文体" tvg-name="黑龙江文体" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/heilongjiang/Heilongjiang2.png" group-title="地方",龙江文体
 http://[2409:8087:1a01:df::4025]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/1.m3u8
 #EXTINF:-1 tvg-id="黑龙江都市" tvg-name="黑龙江都市" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/heilongjiang/Heilongjiang4.png" group-title="地方",龙江都市
@@ -325,14 +352,12 @@ http://live.iill.top/huya.php?id=11601986
 
 #EXTINF:-1 group-title="电影",刘德华
 http://cfss.cc/cdn/hy/11342424.flv
-
-#EXTINF:-1 group-title="电影",海绵宝宝
-http://cfss.cc/cdn/hy/11352919.flv
-
-#EXTINF:-1 tvg-id="七龙珠" tvg-name="七龙珠" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/七龙珠.png" group-title="综合",七龙珠
-http://live.iill.top/huya.php?id=11601966
-#EXTINF:-1 tvg-id="灌篮高手" tvg-name="灌篮高手" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/灌篮高手.png" group-title="综合",灌篮高手
-http://live.iill.top/yy.php?id=1382735626
+#EXTINF:-1 group-title="电影",经典香港电影
+http://hlsbkmgsplive.miguvideo.com/wd_r2/virtuallive/5100180869/150/01.m3u8?&HlsSubType=&encrypt=
+#EXTINF:-1 group-title="电影",CHC家庭影院
+http://hlsbkmgsplive.miguvideo.com/wd_r3/cnr/chcjtyy/3000/01.m3u8?&HlsSubType=&encrypt=
+#EXTINF:-1 group-title="电影",CHC动作电影
+http://hlsbkmgsplive.miguvideo.com/wd_r1/2018/gesee/chcdzdy/600/01.m3u8?&HlsSubType=&encrypt=
 
 
 #EXTINF:-1 tvg-id="苏州4K" tvg-name="苏州4K" tvg-logo="https://live.fanmingming.com/tv/苏州4K.png" group-title="综合",苏州4K
@@ -570,12 +595,6 @@ https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8
 https://247wlive.foxweather.com/stream/index.m3u8
 #EXTINF:-1 group-title="国际",RTV Drenthe NL
 https://cdn.rtvdrenthe.nl/live/rtvdrenthe/tv/index.m3u8
-#EXTINF:-1 group-title="国际",越南同奈省Đồng Nai 2
-http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8
-#EXTINF:-1 group-title="国际",越南坚江频道
-http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
-#EXTINF:-1 group-title="国际",沙特儿童生活Ajyal TV
-http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="港澳台",凤凰中文
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
@@ -691,10 +710,15 @@ http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000046/index.m3u8?
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000047/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000047&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 tvg-id="爱动漫" tvg-name="iHOT爱动漫" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/iHOT/ihot11.png" group-title="IHOT",iHOT爱动漫
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000059/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000059&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 group-title="IHOT",爱江湖
-http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000110630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000110630&livemode=1&stbId=3
 
 
+
+#EXTINF:-1 group-title="TBD",海绵宝宝
+http://cfss.cc/cdn/hy/11352919.flv
+#EXTINF:-1 tvg-id="七龙珠" tvg-name="七龙珠" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/七龙珠.png" group-title="TBD",七龙珠
+http://live.iill.top/huya.php?id=11601966
+#EXTINF:-1 tvg-id="灌篮高手" tvg-name="灌篮高手" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/灌篮高手.png" group-title="TBD",灌篮高手
+http://live.iill.top/yy.php?id=1382735626
 #EXTINF:-1 group-title="TBD",83射雕
 https://live.metshop.top/yy/1354210357
 #EXTINF:-1 group-title="TBD",知否知否应是绿肥红瘦
@@ -709,12 +733,10 @@ https://live.metshop.top/yy/1382735626
 https://live.metshop.top/yy/1351762426
 #EXTINF:-1 group-title="TBD",赵本山
 https://live.metshop.top/yy/32160832
-
 #EXTINF:-1 group-title="TBD",天龙八部
 https://live.metshop.top/yy/1351814644
 #EXTINF:-1 group-title="TBD",武林外传
 https://live.metshop.top/yy/1355652820
-
 #EXTINF:-1 group-title="TBD",成龙
 https://live.metshop.top/yy/34460526
 #EXTINF:-1 group-title="TBD",笑傲江湖
