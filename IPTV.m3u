@@ -592,15 +592,6 @@ https://247wlive.foxweather.com/stream/index.m3u8
 #EXTINF:-1 group-title="国际",RTV Drenthe NL
 https://cdn.rtvdrenthe.nl/live/rtvdrenthe/tv/index.m3u8
 
-#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="港澳台",凤凰中文
-http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
-#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="港澳台",凤凰资讯
-http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
-#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="港澳台",凤凰香港
-http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
-#http://113.64.145.61:8081/hls/38/index.m3u8
-#EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://live.fanmingming.com/tv/香港卫视.png" group-title="港澳台",香港卫视
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-id="中视" tvg-name="中视" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/CTV.png" group-title="港澳台",中视
 http://37.27.111.214:8080/live/7/hls.m3u8
 #EXTINF:-1 tvg-id="台视" tvg-name="台视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视.png" group-title="港澳台",台视
@@ -617,12 +608,6 @@ http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 http://66.165.240.154:8080/live/ztylt01/hls.m3u8
 #EXTINF:-1 tvg-id="民视新闻" tvg-name="民视新闻" tvg-logo="https://live.fanmingming.com/tv/民视新闻台.png" group-title="港澳台",民视新闻
 http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-#EXTINF:-1 tvg-id="三立新闻" tvg-name="三立新闻" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/三立新闻.png" group-title="港澳台",三立新闻
-http://66.165.240.154:8080/live/slxw01/hls.m3u8
-#EXTINF:-1 tvg-id="TVB无线星河" tvg-name="无线星河" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/gangaotai/TVB6.png" group-title="港澳台",TVB无线星河
-http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="TVB娱乐新闻" tvg-name="娱乐新闻" tvg-logo="https://gitee.com/suxuang/logo/raw/master/logo/TVB娱乐新闻台.jpg" group-title="港澳台",TVB娱乐新闻
-http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
 
 #EXTINF:-1 group-title="港澳台",镜新闻
 http://www.terrykang.xyz:35455/youtube/5n0y6b0Q25o
@@ -630,11 +615,9 @@ http://www.terrykang.xyz:35455/youtube/5n0y6b0Q25o
 
 #EXTINF:-1 group-title="港澳台",AMC电影台
 http://61.221.215.25:8800/hls/43/index.m3u8
-#EXTINF:-1 group-title="港澳台",纬来精彩
-http://61.221.215.25:8800/hls/48/index.m3u8
 #EXTINF:-1 group-title="港澳台",探索亚洲
 http://61.221.215.25:8800/hls/50/index.m3u8
-#EXTINF:-1 group-title="国际频道",动物星球
+#EXTINF:-1 group-title="港澳台",动物星球
 http://61.221.215.25:8800/hls/57/index.m3u8
 
 #EXTINF:-1 group-title="港澳台",八大第一
@@ -647,27 +630,13 @@ http://61.221.215.25:8800/hls/39/index.m3u8
 http://61.221.215.25:8800/hls/41/index.m3u8
 
 
-#EXTINF:-1 tvg-id="TVB翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="港澳台",TVB翡翠台
-http://php.jdshipin.com:8880/smt.php?id=jade_twn
-#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/TVB2.png" group-title="港澳台",TVB明珠台
-http://bziyunshao.synology.me:8890/bysid/2
-
-#EXTINF:-1 group-title="港澳台",TVB亚洲武侠台
-http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://live.fanmingming.com/tv/星空卫视.png" group-title="港澳台",星空卫视
-http://wouu.net:9977/udp/239.93.0.156:2193
-#http://vl15191373.imwork.net:8880/udp/239.93.0.156:2193
-#EXTINF:-1 tvg-id="星光综合" tvg-name="星光综合" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/星光综合台.png" group-title="港澳台",星光综合
-http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
-#EXTINF:-1 tvg-id="环球电视" tvg-name="环球电视" tvg-logo="https://live.fanmingming.com/tv/环球电视台.png" group-title="港澳台",环球电视
-http://zb.xzxwhcb.com:9999/hls/world.m3u8
-#EXTINF:-1 tvg-id="美亚C+" tvg-name="美亚C+" tvg-logo="https://gitee.com/suxuang/logo/raw/master/logo/美亚C.png" group-title="港澳台",美亚C+
-http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 #EXTINF:-1 tvg-id="东森超视" tvg-name="东森超视" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/EBC2.png" group-title="港澳台",东森超视
 rtmp://f13h.mine.nu/sat/tv331
 #EXTINF:-1 tvg-id="MOMOTV" tvg-name="MOMOTV" tvg-logo="https://gitee.com/suxuang/logo/raw/master/logo/MOMOTV.png" group-title="港澳台",MOMOTV
 rtmp://f13h.mine.nu/sat/tv761
+
+#EXTINF:-1 group-title="港澳台",纬来精彩
+http://61.221.215.25:8800/hls/48/index.m3u8
 #EXTINF:-1 tvg-id="纬来日本" tvg-name="纬来日本台" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/gangaotai/Weilai3.png" group-title="港澳台",纬来日本
 rtmp://f13h.mine.nu/sat/tv771
 #EXTINF:-1 tvg-id="纬来育乐" tvg-name="纬来音乐台" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/gangaotai/Weilai6.png" group-title="港澳台",纬来育乐
@@ -682,6 +651,39 @@ rtmp://f13h.mine.nu/sat/tv741
 #EXTINF:-1 group-title="港澳台",ELEVEN体育3
 rtmp://f13h.mine.nu/sat/tv751
 
+
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="港澳台",凤凰中文
+http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="港澳台",凤凰资讯
+http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="港澳台",凤凰香港
+http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
+#http://113.64.145.61:8081/hls/38/index.m3u8
+#EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://live.fanmingming.com/tv/香港卫视.png" group-title="港澳台",香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 tvg-id="TVB无线星河" tvg-name="无线星河" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/gangaotai/TVB6.png" group-title="港澳台",TVB无线星河
+http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="TVB娱乐新闻" tvg-name="娱乐新闻" tvg-logo="https://gitee.com/suxuang/logo/raw/master/logo/TVB娱乐新闻台.jpg" group-title="港澳台",TVB娱乐新闻
+http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-id="TVB翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="港澳台",TVB翡翠台
+#http://php.jdshipin.com:8880/smt.php?id=jade_twn
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/TVB2.png" group-title="港澳台",TVB明珠台
+#http://bziyunshao.synology.me:8890/bysid/2
+
+#EXTINF:-1 group-title="港澳台",TVB亚洲武侠台
+http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://live.fanmingming.com/tv/星空卫视.png" group-title="港澳台",星空卫视
+http://wouu.net:9977/udp/239.93.0.156:2193
+#http://vl15191373.imwork.net:8880/udp/239.93.0.156:2193
+#EXTINF:-1 tvg-id="星光综合" tvg-name="星光综合" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/星光综合台.png" group-title="港澳台",星光综合
+#http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
+#EXTINF:-1 tvg-id="环球电视" tvg-name="环球电视" tvg-logo="https://live.fanmingming.com/tv/环球电视台.png" group-title="港澳台",环球电视
+http://zb.xzxwhcb.com:9999/hls/world.m3u8
+#EXTINF:-1 tvg-id="美亚C+" tvg-name="美亚C+" tvg-logo="https://gitee.com/suxuang/logo/raw/master/logo/美亚C.png" group-title="港澳台",美亚C+
+http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 #EXTINF:-1 group-title="港澳台",澳视卫星
 http://61.244.22.5/ch3/_definst_/ch3.live/playlist.m3u8
 #EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/gangaotai/Aoshi1.png" group-title="港澳台",澳視澳門
@@ -729,75 +731,75 @@ http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000059/index.m3u8?
 
 
 
-#EXTINF:-1 group-title="TBD",海绵宝宝
+#EXTINF:-1 group-title="MetShop",海绵宝宝
 http://cfss.cc/cdn/hy/11352919.flv
-#EXTINF:-1 tvg-id="七龙珠" tvg-name="七龙珠" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/七龙珠.png" group-title="TBD",七龙珠
+#EXTINF:-1 tvg-id="七龙珠" tvg-name="七龙珠" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/七龙珠.png" group-title="MetShop",七龙珠
 http://live.iill.top/huya.php?id=11601966
-#EXTINF:-1 tvg-id="灌篮高手" tvg-name="灌篮高手" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/灌篮高手.png" group-title="TBD",灌篮高手
+#EXTINF:-1 tvg-id="灌篮高手" tvg-name="灌篮高手" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/灌篮高手.png" group-title="MetShop",灌篮高手
 http://live.iill.top/yy.php?id=1382735626
-#EXTINF:-1 group-title="TBD",83射雕
+#EXTINF:-1 group-title="MetShop",83射雕
 https://live.metshop.top/yy/1354210357
-#EXTINF:-1 group-title="TBD",知否知否应是绿肥红瘦
+#EXTINF:-1 group-title="MetShop",知否知否应是绿肥红瘦
 https://live.metshop.top/yy/21881901
-#EXTINF:-1 group-title="TBD",新白娘子传奇
+#EXTINF:-1 group-title="MetShop",新白娘子传奇
 https://live.metshop.top/yy/1354490667
-#EXTINF:-1 group-title="TBD",济公游记
+#EXTINF:-1 group-title="MetShop",济公游记
 https://live.metshop.top/yy/1355265814
-#EXTINF:-1 group-title="TBD",灌篮高手
+#EXTINF:-1 group-title="MetShop",灌篮高手
 https://live.metshop.top/yy/1382735626
-#EXTINF:-1 group-title="TBD",神雕侠侣
+#EXTINF:-1 group-title="MetShop",神雕侠侣
 https://live.metshop.top/yy/1351762426
-#EXTINF:-1 group-title="TBD",赵本山
+#EXTINF:-1 group-title="MetShop",赵本山
 https://live.metshop.top/yy/32160832
-#EXTINF:-1 group-title="TBD",天龙八部
+#EXTINF:-1 group-title="MetShop",天龙八部
 https://live.metshop.top/yy/1351814644
-#EXTINF:-1 group-title="TBD",武林外传
+#EXTINF:-1 group-title="MetShop",武林外传
 https://live.metshop.top/yy/1355652820
-#EXTINF:-1 group-title="TBD",成龙
+#EXTINF:-1 group-title="MetShop",成龙
 https://live.metshop.top/yy/34460526
-#EXTINF:-1 group-title="TBD",笑傲江湖
+#EXTINF:-1 group-title="MetShop",笑傲江湖
 https://live.metshop.top/yy/1354930909
-#EXTINF:-1 group-title="TBD",新三国
+#EXTINF:-1 group-title="MetShop",新三国
 https://live.metshop.top/yy/26744898
-#EXTINF:-1 group-title="TBD",三国演义94版
+#EXTINF:-1 group-title="MetShop",三国演义94版
 https://live.metshop.top/yy/1354936241
-#EXTINF:-1 group-title="TBD",变形金刚
+#EXTINF:-1 group-title="MetShop",变形金刚
 https://live.metshop.top/yy/1382736803
-#EXTINF:-1 group-title="TBD",寻秦记
+#EXTINF:-1 group-title="MetShop",寻秦记
 https://live.metshop.top/yy/1382749900
-#EXTINF:-1 group-title="TBD",周星驰
+#EXTINF:-1 group-title="MetShop",周星驰
 https://live.metshop.top/yy/29945997
-#EXTINF:-1 group-title="TBD",李连杰
+#EXTINF:-1 group-title="MetShop",李连杰
 https://live.metshop.top/yy/74613175
-#EXTINF:-1 group-title="TBD",动物世界
+#EXTINF:-1 group-title="MetShop",动物世界
 https://live.metshop.top/yy/1382749889
-#EXTINF:-1 group-title="TBD",老广的味道S3
+#EXTINF:-1 group-title="MetShop",老广的味道S3
 https://live.metshop.top/yy/1382735565
-#EXTINF:-1 group-title="TBD",科幻大片
+#EXTINF:-1 group-title="MetShop",科幻大片
 https://live.metshop.top/yy/1382747628
-#EXTINF:-1 group-title="TBD",国外科幻
+#EXTINF:-1 group-title="MetShop",国外科幻
 https://live.metshop.top/yy/1382735585
-#EXTINF:-1 group-title="TBD",红楼梦87版
+#EXTINF:-1 group-title="MetShop",红楼梦87版
 https://live.metshop.top/yy/1382745084
-#EXTINF:-1 group-title="TBD",国产喜剧
+#EXTINF:-1 group-title="MetShop",国产喜剧
 https://live.metshop.top/yy/1382745113
-#EXTINF:-1 group-title="TBD",香港动作
+#EXTINF:-1 group-title="MetShop",香港动作
 https://live.metshop.top/yy/1382736816
-#EXTINF:-1 group-title="TBD",上海滩
+#EXTINF:-1 group-title="MetShop",上海滩
 https://live.metshop.top/yy/1382745184
-#EXTINF:-1 group-title="TBD",王朝
+#EXTINF:-1 group-title="MetShop",王朝
 https://live.metshop.top/yy/1354930927
-#EXTINF:-1 group-title="TBD",上海滩
+#EXTINF:-1 group-title="MetShop",上海滩
 https://live.metshop.top/yy/1382745184
-#EXTINF:-1 group-title="TBD",蓝色星球
+#EXTINF:-1 group-title="MetShop",蓝色星球
 https://live.metshop.top/yy/1354930936
-#EXTINF:-1 group-title="TBD",野性欧洲
+#EXTINF:-1 group-title="MetShop",野性欧洲
 https://live.metshop.top/yy/1354926622
-#EXTINF:-1 group-title="TBD",一城一味
+#EXTINF:-1 group-title="MetShop",一城一味
 https://live.metshop.top/yy/1382745179
-#EXTINF:-1 group-title="TBD",舌尖上的中国S1
+#EXTINF:-1 group-title="MetShop",舌尖上的中国S1
 https://live.metshop.top/yy/1354930952
-#EXTINF:-1 group-title="TBD",编辑部的故事
+#EXTINF:-1 group-title="MetShop",编辑部的故事
 https://live.metshop.top/yy/1354936120
 
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="电视剧",楚汉骄雄
