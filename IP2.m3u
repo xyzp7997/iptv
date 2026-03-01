@@ -103,8 +103,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/tastemade-tastemade-int-aus-samsungau/
 http://1tv41.icu:8080/8434692955/judgen64@yahoo.com/2210
 #EXTINF:-1 group-title="国际",BBC Earth
 https://aegis-cloudfront-1.tubi.video/bb1fc6ad-9948-42ea-aaf3-20acfcdeecac/playlist.m3u8
-#EXTINF:-1 group-title="国际",NHL Network
-http://23.237.104.106:8080/USA_NHL_NETWORK/index.m3u8
 #EXTINF:-1 group-title="国际",The First
 https://thefirst-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",Travel XP
@@ -199,6 +197,8 @@ https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/
 https://9be783d652cd4b099cf63e1dc134c4a3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="国际",Rakuten Drama
 https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8
+#EXTINF:-1 group-title="国际",NHK BSプレミアム
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1 group-title="港台频道",凤凰中文
 http://cdn6.163189.xyz/163189/fhzw
 #EXTINF:-1 group-title="港台频道",凤凰资讯
@@ -209,12 +209,6 @@ http://cdn6.163189.xyz/163189/fhhk
 http://cdn6.163189.xyz/163189/wxxw
 #EXTINF:-1 group-title="港台频道",非凡新闻
 http://iptv.4666888.xyz/iptv2A.php?id=44
-#EXTINF:-1 group-title="港台频道",寰宇新聞
-http://67.220.67.246:2347/livehttpplay?channel_id=20109
-#EXTINF:-1 group-title="港台频道",中天新闻
-http://67.220.67.246:2347/livehttpplay?channel_id=20163
-#EXTINF:-1 group-title="港台频道",民视新闻
-http://67.220.67.246:2347/livehttpplay?channel_id=20097
 #EXTINF:-1 group-title="港台频道",TVBS亚洲
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 #EXTINF:-1 group-title="港台频道",NOW新闻
@@ -233,6 +227,10 @@ http://cdn6.163189.xyz/163189/mzt
 http://iptv.4666888.xyz/iptv2A.php?id=55
 #EXTINF:-1 group-title="港台频道",娱乐新闻
 http://iptv.4666888.xyz/iptv2A.php?id=36
+#EXTINF:-1 group-title="港台频道",香港面包
+https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+#EXTINF:-1 group-title="港台频道",生命电视
+http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
 #EXTINF:-1 group-title="港台频道",八度空间
 http://cdn6.163189.xyz/163189/8tv
 #EXTINF:-1 group-title="港台频道",龙华偶像
@@ -326,11 +324,13 @@ http://ali-xwl.cztv.com/live/channel081080Plxw.m3u8
 #EXTINF:-1 group-title="浙江频道",浙江国际
 http://ali-xwl.cztv.com/live/channel101080Plxw.m3u8
 #EXTINF:-1 group-title="广东频道",广州综合
-http://tencentplaygzrb01.gztv.com/live/zonghes.m3u8
-#EXTINF:-1 group-title="广东频道",广州新闻
-http://tencentplaygzrb01.gztv.com/live/xinwen.m3u8
+https://tencentplaygsm.gztv.com/live/zonghes.m3u8?txTime=65797c44&amp%3BtxSecret=7e4590b2320037d7ce49ce9eac2dd6c0
 #EXTINF:-1 group-title="广东频道",南国都市
-http://tencentplaygzrb01.gztv.com/live/nanguodushi.m3u8
+https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
+#EXTINF:-1 group-title="广东频道",东莞新综
+https://stream.sun0769.com/dgrtv1/mp4tv1_1500/index.m3u8
+#EXTINF:-1 group-title="广东频道",东莞生资
+https://stream.sun0769.com/dgrtv1/mp4tv2_1500/index.m3u8
 #EXTINF:-1 group-title="广西频道",南宁新闻
 https://hls.nntv.cn/nnlive/XWZH_24.m3u8
 #EXTINF:-1 group-title="广西频道",南宁公共
@@ -345,7 +345,7 @@ https://hls.ningxiahuangheyun.com/live/nxjj1M.m3u8
 https://hls.ningxiahuangheyun.com/live/nxwl1M.m3u8
 #EXTINF:-1 group-title="宁夏频道",宁夏少儿
 https://hls.ningxiahuangheyun.com/live/nxse1M.m3u8
-#EXTINF:-1 group-title="云南频道",云南都市 
+#EXTINF:-1 group-title="云南频道",云南都市
 https://hwapi.yntv.net/62hdvf/rjwt14.m3u8
 #EXTINF:-1 group-title="云南频道",云南娱乐
 https://hwapi.yntv.net/62hdvf/q9vs1b.m3u8
