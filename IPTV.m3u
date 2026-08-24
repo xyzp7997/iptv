@@ -37,10 +37,6 @@ http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 http://41.205.93.154/ESPN/index.m3u8
 #EXTINF:-1 tvg-id="ESPNU.HD.us2" tvg-name="ESPN U" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45654_dark_360w_270h.png" group-title="国际",ESPN U
 http://23.237.104.106:8080/USA_ESPNU/index.m3u8
-#EXTINF:-1 tvg-id="HBO.East.us2" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png" group-title="国际",HBO
-http://23.237.104.106:8080/USA_HBO/index.m3u8
-#EXTINF:-1 tvg-id="HBO2.HD.us2" tvg-name="HBO 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="国际",HBO 2
-http://23.237.104.106:8080/USA_HBO2/index.m3u8
 #EXTINF:-1 tvg-id="LMN.HD.us2" tvg-name="Lifetime Movie Network" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18480_dark_360w_270h.png" group-title="国际",Lifetime Movie Network
 http://23.237.104.106:8080/USA_LMN/index.m3u8
 #EXTINF:-1 tvg-id="National.Geographic.HD.us2" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png" group-title="国际",National Geographic
@@ -168,61 +164,10 @@ rtmp://f13h.mine.nu/sat/tv701
 #EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育台" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/gangaotai/Weilai5.png" group-title="港台频道",纬来体育
 rtmp://f13h.mine.nu/sat/tv721
 
-#EXTINF:-1 group-title="港台频道",非凡新闻
-http://iptv.4666888.xyz/iptv2A.php?id=44
 #EXTINF:-1 group-title="港台频道",TVBS亚洲
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
-#EXTINF:-1 group-title="港台频道",NOW新闻
-http://cdn.163189.xyz/163189/now
-#EXTINF:-1 group-title="港台频道",黄金华剧台
-http://iptv.4666888.xyz/iptv2A.php?id=34
-
-#EXTINF:-1 group-title="港台频道",娱乐新闻
-http://iptv.4666888.xyz/iptv2A.php?id=36
 #EXTINF:-1 group-title="港台频道",香港面包
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-#EXTINF:-1 group-title="港台频道",龙华偶像
-http://cdn8.163189.xyz/163189/lhox
-#EXTINF:-1 group-title="港台频道",龙华日韩
-http://cdn8.163189.xyz/163189/lhrh
-#EXTINF:-1 group-title="港台频道",龙华电影
-https://cdn8.163189.xyz/163189/lhdy
-#EXTINF:-1 group-title="港台频道",龙华经典
-https://cdn8.163189.xyz/163189/lhjd
-#EXTINF:-1 group-title="港台频道",TVB戏剧
-http://iptv.4666888.xyz/iptv2A.php?id=33
-#EXTINF:-1 group-title="港台频道",TVB星河
-https://o11.163189.xyz/stream/live/tvbxh/
-#EXTINF:-1 group-title="港台频道",TVBS精采
-http://iptv.4666888.xyz/iptv2A.php?id=47
-#EXTINF:-1 group-title="港台频道",TVB千禧经典
-http://iptv.4666888.xyz/iptv2A.php?id=22
-#EXTINF:-1 group-title="港台频道",TVBJ1
-http://iptv.4666888.xyz/iptv2A.php?id=26
-#EXTINF:-1 group-title="港台频道",天映经典
-https://o11.163189.xyz/stream/live/ccm/
-#EXTINF:-1 group-title="港台频道",ROCK ACTION
-http://iptv.4666888.xyz/iptv2A.php?id=50
-#EXTINF:-1 group-title="港台频道",MYTV SUPER
-http://iptv.4666888.xyz/iptv2A.php?id=24
-#EXTINF:-1 group-title="港台频道",靖洋戏剧
-http://iptv.4666888.xyz/iptv2A.php?id=42
-
-
-#EXTINF:-1 group-title="港台频道",ASTRO爱奇艺
-https://o11.163189.xyz/stream/live/iqiyi/
-
-#EXTINF:-1 group-title="港台频道",民视综艺
-http://iptv.4666888.xyz/iptv2A.php?id=46
-#EXTINF:-1 group-title="港台频道",民视影剧
-http://iptv.4666888.xyz/iptv2A.php?id=53
-#EXTINF:-1 group-title="港台频道",东森电影
-http://iptv.4666888.xyz/iptv2A.php?id=48
-#EXTINF:-1 group-title="港台频道",RTHK31
-http://iptv.4666888.xyz/iptv2A.php?id=23
-#EXTINF:-1 group-title="港台频道",VIUTV
-https://cdn.163189.xyz/163189/viu
-
 #EXTINF:-1 group-title="浙江频道",钱江都市
 http://ali-xwl.cztv.com/live/channel021080Plxw.m3u8
 #EXTINF:-1 group-title="浙江频道",经济生活
